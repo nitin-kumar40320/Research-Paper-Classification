@@ -8,6 +8,6 @@ If the paper is publishable, then its publishing conference among **CVPR**, **EM
 
 # Operation Instruction
 - Keep the 'References' folder, 'Papers' folder, 'reference_data.csv' file and the Python code files within the same directory or you might need to change the directory path to the folders in the code files is they are kept elsewhere.
-- Replace 'API_KEY_HERE' with a Gemini API key on line 61 in '[Process_Input.py](https://github.com/Devansh-arora02/Research_Paper_Classifier/blob/main/Process_Input.py)'.
-- Replace 'API_KEY_HERE' with a HuggingFace API key on line 53 in '[RAG.py](https://github.com/Devansh-arora02/Research_Paper_Classifier/blob/main/RAG.py)'
-- Run only the '[Generate_Output.py](https://github.com/Devansh-arora02/Research_Paper_Classifier/blob/main/Generate_Output.py)' file.
+- Replace 'API_KEY_HERE' with a Gemini API key on line 61 in '[Process_Input.py](Process_Input.py)'.
+- Replace 'API_KEY_HERE' with a HuggingFace API key on line 53 in '[RAG.py](RAG.py)'
+- Run only the '[Generate_Output.py](Generate_Output.py)' file.
