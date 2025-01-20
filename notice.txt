@@ -1,0 +1,7 @@
+This notice file is to declare that this is a combined project.
+And it is a result of the developments after the Khadagpur Data Science Hackathon (KDSH), 2025
+
+The project has been developed by nitin-kumar40320 and Devansh-arora02, with equal contribution from both the concerned parties.
+
+Hope it helps you in any way possible.
+Regards
